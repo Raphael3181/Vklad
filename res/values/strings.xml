@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Tab Test</string>
+<string name="text_tab1">Первая вкладка</string>
+<string name="text_tab2">Вторая вкладка</string>
+<string name="text_tab3">Третья вкладка</string>
+</resources>
